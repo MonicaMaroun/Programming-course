@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+This is the first branch that i have created on Github. It is an info bracnh about what i am doing while learning programming.
 
 You can use the [editor on GitHub](https://github.com/MonicaMaroun/Programming-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
