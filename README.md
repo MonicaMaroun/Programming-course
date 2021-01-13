@@ -1,6 +1,6 @@
 This is the first branch that i have created on Github. It is an info branch about what i am doing while learning programming.
 
-<h1> Hello tho this ocurse</h1>
+<h1> Hello to this ocurse</h1>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
