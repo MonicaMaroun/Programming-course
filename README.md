@@ -1,6 +1,6 @@
-This is the first branch that i have created on Github. It is an info bracnh about what i am doing while learning programming.
+This is the first branch that i have created on Github. It is an info branch about what i am doing while learning programming.
 
-You can use the [editor on GitHub](https://github.com/MonicaMaroun/Programming-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1> Hello to this Course</h1>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
